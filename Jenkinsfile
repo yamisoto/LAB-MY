@@ -6,7 +6,7 @@ pipeline{
     }
 
     stages {
-        // Specify various stage with in stages
+        // specify various stage with in stages, test one
 
         // stage 1. Build
         stage ('Build'){
